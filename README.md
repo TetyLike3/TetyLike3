@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 >   getting bitches
 - 📫 How to reach me ...
->   you dont
+>   bring me some bitches
 
 <!---
 TetyLike3/TetyLike3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
