@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @TetyLike3
-- 👀 I’m interested in ...
->   bitches
-- 🌱 I’m currently learning ...
->   how to get bitches
-- 💞️ I’m looking to collaborate on ...
->   getting bitches
-- 📫 How to reach me ...
->   bring me some bitches
+i love strawberry flavoured console lines
 
 <!---
 TetyLike3/TetyLike3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
